@@ -1,2 +1,2 @@
-date >> ~/timestamp/timelog.txt
-cat ~/timestamp/timelog.txt | tail
+date >> ~/custom_tools/timelog.txt
+cat ~/custom_tools/timelog.txt | tail
