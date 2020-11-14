@@ -2,4 +2,4 @@ Repo do sklonowania do ~/timestamp w celu znacznikowania czasu istotnych zdarzen
 
 Do ustawienia recznego aliasy:
 * `alias stampit = 'bash ~/custom_tools/timestamp.sh'`
-* `alias ts_stat = '~/custom_tools/timelog.txt'`
+* `alias ts_stat = 'cat ~/custom_tools/timelog.txt'`
