@@ -5,3 +5,5 @@ Do ustawienia recznego aliasy:
 * `alias ts='cat ~/custom_tools/timelog.txt'`
 
 W celu ustawienia permanentnych aliasów można skopiować plik .bash_aliases do katalogu głównego (~/). Metoda działa, jeżeli odpowiednio skonfigurowany jest .bashrc.
+
+W celu aktywowania skrypty z aliasami: source [path]/.bash_aliases, domyslnie ~/custom_tools/.bash_aliases .
