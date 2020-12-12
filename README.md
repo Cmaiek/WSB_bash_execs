@@ -1,3 +1,5 @@
+# Narzędzia tworzone dla sportu na potrzeby zajęć na WSB
+
 Repo do sklonowania do ~/custom_tools w celu znacznikowania czasu istotnych zdarzen w trakcie wykladow.
 
 Do ustawienia aliasy:
